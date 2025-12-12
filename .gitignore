@@ -13,6 +13,6 @@ dist/
 .vscode/
 .idea/
 
-# 图片资源 (可选：如果你想保留模板供人使用，就不要忽略 templates/)
+# 图片资源 (根据需求替换)
 # templates/
 
