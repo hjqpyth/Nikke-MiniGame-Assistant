@@ -35,7 +35,7 @@
 确保已安装 Python 3.x，然后安装项目依赖：
 
 ```bash
-pip install opencv-python numpy mss pyinstaller
+pip install pip install -r requirements.txt
 ```
 
 ### 2. 校准坐标 (首次运行必须)
